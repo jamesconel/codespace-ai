@@ -1,2 +1,3 @@
 # codespace-ai
-llm model btw
+Based on Open WebUI
+Customized by User B
